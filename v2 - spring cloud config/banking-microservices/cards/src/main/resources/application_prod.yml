@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to ASPL banks cards Production APIs"
+  contactDetails:
+    name: "Bhaskar Chauhan - Product owner"
+    email: "chauhanbhaskar51@gmail.com"
+  onCallSupport:
+    - +91 7620264927
+    - +91 8605037960

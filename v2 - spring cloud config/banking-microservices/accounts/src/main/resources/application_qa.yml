@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to ASPL banks accounts QA APIs"
+  contactDetails:
+    name: "Bhaskar Chauhan - QA Lead"
+    email: "chauhanbhaskar51@gmail.com"
+  onCallSupport:
+    - +91 7620264927
+    - +91 8605037960
