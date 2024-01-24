@@ -1,13 +1,7 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
-
 build:
   version: "3.0"
-
-loans:
-  message: "Welcome to ASPL banks loans Production APIs"
+cards:
+  message: "Welcome to ASPL banks cards Production APIs"
   contactDetails:
     name: "Bhaskar Chauhan - Product owner"
     email: "chauhanbhaskar51@gmail.com"

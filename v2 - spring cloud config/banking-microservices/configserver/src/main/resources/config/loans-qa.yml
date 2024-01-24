@@ -1,11 +1,5 @@
-spring:
-  config:
-    activate:
-      on-profile: "qa"
-
 build:
   version: "2.0"
-
 loans:
   message: "Welcome to ASPL banks loans QA APIs"
   contactDetails:

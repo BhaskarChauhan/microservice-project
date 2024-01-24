@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+cards:
+  message: "Welcome to ASPL banks cards local APIs"
+  contactDetails:
+    name: "Bhaskar Chauhan - Developer"
+    email: "chauhanbhaskar51@gmail.com"
+  onCallSupport:
+    - +91 7620264927
+    - +91 8605037960
